@@ -5,3 +5,5 @@
 
   # Tools -> for Web search 
   used -> Tavily api => API Key
+
+  to start the server => $ node --env-file=.env server.js
